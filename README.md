@@ -134,25 +134,6 @@ python3 scripts/json_to_csv.py
 
 The converted CSV file can be used for further analysis and ranking comparison.
 
-## Output Format
-
-The retrieval output contains two candidate lists:
-
-```text
-embedding_top50
-bm25_top50
-```
-
-Each retrieved candidate includes information such as:
-
-```text
-rank
-similarity
-bm25_score
-序號
-主旨
-答覆內容
-```
 
 ## Author
 
