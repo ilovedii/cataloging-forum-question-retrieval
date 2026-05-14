@@ -84,7 +84,7 @@ pip install -r requirements.txt
 
 ### 1. Generate Embeddings
 
-First, generate the embedding file from the cleaned reference QA dataset(have also uploded on github):
+The precomputed embedding file is included in this repository. If needed, users can regenerate it from the cleaned reference QA dataset using the following command:
 
 ```bash
 python3 scripts/export_cleanqa_embeddings.py \
