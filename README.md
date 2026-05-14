@@ -40,7 +40,7 @@ where:
 
 Before conducting retrieval experiments, the length distributions of questions, answers, and combined question-answer pairs were analyzed.
 
-![Question and Answer Length Distribution](figures/length_distribution.png)
+![Question and Answer Length Distribution](length_distribution.png)
 
 
 ## Retrieval Methods
