@@ -70,7 +70,6 @@ The lexical retrieval method uses BM25 to retrieve candidates based on keyword m
 
 Chinese text is processed using CKIP word segmentation. The experiment compares different token filtering strategies, including POS filtering and stopword removal.
 
-```
 ## Requirements
 
 This project requires Python 3.10 or above.
