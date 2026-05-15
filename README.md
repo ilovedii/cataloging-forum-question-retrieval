@@ -135,7 +135,3 @@ python3 scripts/json_to_csv.py
 The converted CSV file can be used for further analysis and ranking comparison.
 
 
-## Author
-
-Dai-Yun Wu  
-National Chengchi University
